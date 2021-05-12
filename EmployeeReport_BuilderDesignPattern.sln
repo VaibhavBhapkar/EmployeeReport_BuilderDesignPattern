@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeReport_BuilderDesignPattern", "EmployeeReport_BuilderDesignPattern\EmployeeReport_BuilderDesignPattern.csproj", "{88B513FF-EA78-4DA0-88DC-23639337E457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B513FF-EA78-4DA0-88DC-23639337E457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B513FF-EA78-4DA0-88DC-23639337E457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B513FF-EA78-4DA0-88DC-23639337E457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B513FF-EA78-4DA0-88DC-23639337E457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA993D1-2AE6-49D2-99D3-1D700C9AEA15}
+	EndGlobalSection
+EndGlobal
